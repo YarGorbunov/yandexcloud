@@ -128,11 +128,6 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# Идентификатор ключа
-# YCAJElNXXcKrjAgBPMT5-aUzN
-# Ваш секретный ключ
-# YCMs6RlbOEZeYKlVWqM4ujgxmXxkcNsZTFpsqUT3
-
 
 
 # python3 site/manage.py runserver 10.129.0.29:8000
